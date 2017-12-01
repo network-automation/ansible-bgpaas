@@ -8,4 +8,4 @@ BGP is the network's distributed database, containing entries describing how to 
 The Goals here are:
 - **Experiment** and explore new concepts, ideas and use-cases related to Network and PaaS.
 - Create **CI/CD** pipeline to run BGP/MP-BGP **ON PaaS**.
-- Run **unprivileged** Network containers on PaaS ( Kubernetes + Openshift).
+- Focus on **Kubernetes / Openshift** as PaaS for Network.
